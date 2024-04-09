@@ -1,5 +1,5 @@
 inputs
-
+noise
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
