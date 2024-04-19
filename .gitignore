@@ -1,7 +1,6 @@
 inputs
-
+referencias
 *.csv
-
 tabelas
 # Byte-compiled / optimized / DLL files
 __pycache__/
